@@ -4,3 +4,8 @@ Este proyecto contiene un juego para adivinar un numero pseudo aleatorio de entr
 Es parte del Curso de Formacion en Alura para conocer y manejar JavaScript.
 
 Faltan mejoras y personalizaciones
+
+Recuerda que para que el DEploy tenga los cambios se deben hacer nuevos deploys
+
+El curso de Github esta crack!
+

@@ -2,8 +2,8 @@ let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
 let numeroMaximo = 10;
-
-
+let nombreJugador = prompt("¿Cual es tu nombre?");
+alert(`Bienvenid@ ${nombreJugador} intenta adivinar el numero!`)
 
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
