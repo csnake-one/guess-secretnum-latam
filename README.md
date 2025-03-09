@@ -7,5 +7,10 @@ Faltan mejoras y personalizaciones
 
 Recuerda que para que el DEploy tenga los cambios se deben hacer nuevos deploys
 
+*[MEJORAS]
+ - Incluir el nombre del jugador en los mensajes del juego
+ - Mensajes aleatorios en cada intento
+ - Si gana, incluir el nombre tambien en el mensaje final
+
 El curso de Github esta crack!
 
